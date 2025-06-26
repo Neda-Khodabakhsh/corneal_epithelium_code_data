@@ -1,1 +1,5 @@
 # corneal_epithelium_code
+voronoi_cornea.m is the main file for creating the basal and the second layers from the empty cornea. 
+voronoi_cornea_steady.m receives layersun created from voronoi_cornea.m and create the result form the steady state. 
+diameterfinder.m calculates the diameter of cells.
+dividingcellsversustimestep calculate the division and delamination rates. 
